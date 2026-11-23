@@ -1,0 +1,6 @@
+{
+  "name": "Vesper Weather",
+  "description": "Atmospheric weather forecast app with hourly and 7-day outlooks, city search, and live local conditions.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
